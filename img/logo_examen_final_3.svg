@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="#000000" id="svg_7" r="234.289276" cy="242.222213" cx="333.000006" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#3f007f"/>
+  <circle stroke="#000000" id="svg_8" r="209.028732" cy="255.333346" cx="317.333328" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ff56aa"/>
+  <path id="svg_9" stroke="#000000" d="m202.228503,146.744106l0,37.70909l55.50253,2.79326l5.74164,140.36162l-82.29686,3.49159l3.82777,-40.50236l-35.72577,0l1.27592,72.62492l168.42147,-13.96633l-29.98412,-162.70775l70.17561,4.1899l-10.84532,-57.96027l-146.09287,13.96633z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#5fbf00"/>
+  <path stroke="#000000" id="svg_10" d="m376.233834,185.888889l-52.622731,159.444447l58.398396,0.777778l8.984369,-42.777779l30.80355,0.777778l12.193072,56.777779l58.398396,-3.888889l-80.859318,-182.777781l-35.295734,11.666667z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#7f00ff"/>
+  <path stroke="#000000" id="svg_11" d="m380.666639,279.666667c0,0 44.000001,0 44.000001,0c0,0 -24.200001,-65.111112 -24.200001,-65.111112c0,0 -19.8,65.111112 -19.8,65.111112z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ff56aa"/>
+ </g>
+</svg>
